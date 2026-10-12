@@ -1,0 +1,5 @@
+# Caché
+__pycache__/
+
+# Ignorar modelos pesados
+*.pt
